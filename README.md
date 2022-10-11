@@ -1,3 +1,3 @@
 # Análise Crítica
-##Case Intel
+## Case Intel
 ### Link: http://www.michaeljames.org/Intel-case-study.pdf
